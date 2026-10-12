@@ -1,4 +1,4 @@
-### OCR parseing using sql for queries
+ # OCR parseing using sql for queries
 
  - uses tess4j for OCR 
  - uses baidu/unlimeted-ocr fo
